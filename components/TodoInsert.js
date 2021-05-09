@@ -1,4 +1,5 @@
 // components/TodoInsert.js
+// 텍스트 입력창과 추가 버튼이 들어갈 부분
 import React from 'react';
 import {Button, StyleSheet, TextInput, View} from 'react-native';
 
