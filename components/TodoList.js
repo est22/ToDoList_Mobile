@@ -7,7 +7,7 @@ import TodoListItem from './TodoListItem';
 const TodoList = () => {
   return (
     <ScrollView contentContainerStyle={styles.listContainer}>
-      <Text>TodoList</Text>
+      <TodoListItem/>
     </ScrollView>
   );
 };
